@@ -270,9 +270,6 @@ body {
   margin: 70% 10%;
   overflow: hidden;
 }
-.banner--button:hover {
-  cursor: pointer;
-}
 .banner--button:hover ~ .banner--top__beam {
   opacity: 1;
 }
